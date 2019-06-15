@@ -1,0 +1,9 @@
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\bin\Debug\netcoreapp2.2\Battalion.deps.json
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\bin\Debug\netcoreapp2.2\Battalion.dll
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\bin\Debug\netcoreapp2.2\Battalion.pdb
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\obj\Debug\netcoreapp2.2\Battalion.csproj.CoreCompileInputs.cache
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\obj\Debug\netcoreapp2.2\Battalion.AssemblyInfoInputs.cache
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\obj\Debug\netcoreapp2.2\Battalion.AssemblyInfo.cs
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\obj\Debug\netcoreapp2.2\Battalion.dll
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\obj\Debug\netcoreapp2.2\Battalion.pdb
+D:\Tech-Nerd Repostore\Tech-Nerd\GitSubmodule\Datastore\Battalion\obj\Debug\netcoreapp2.2\Battalion.csprojAssemblyReference.cache
